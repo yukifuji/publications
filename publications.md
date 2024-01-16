@@ -10,6 +10,9 @@
 
 ## 講演・口頭発表等
 ### 国際会議(査読付き)
+- Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
+- Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks, IEEE International Conference on Big Data 2023, 2023
+- Teruaki Hayashi, Yukihisa Fujita, and Masahiro Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data, IEEE International Conference on Big Data 2023, 2023
 -	Yukihisa Fujita, Kenji Oya, Rafael P Longhi, Virgílio J Filho, Takaaki Mizukami and Makoto Katagishi. Proposal of Data Centric Supply Chain Management Solution. Rio Oil & Gas Expo and Conference, 2016.
 -	Yukihisa Fujita. Dynamic planning of cargo transportation for uncertain environments. 17th International Conference on Harbor, Maritime and Multimodal Logistics Modeling and Simulation (HMS 2015), 2015.
 -	Yukihisa Fujita and Tomohiro Nakamura. Transportation planning algorithm under uncertain environment. Fifth International Conference on Computational Logistics (ICCL 2014), 2014.
