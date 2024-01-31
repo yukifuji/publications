@@ -1,5 +1,5 @@
 # Publications
-## 査読付き論文
+## Journal Paper / 査読付き論文
 - Yukihisa Fujita, Masahiro Kuwahara, and Eiji Ueda. MaaS Blender: Integration of Mobility Simulators for Mobility as a Service Evaluation. in IEEE Access, vol. 11, pp. 105105-105114, 2023, doi: 10.1109/ACCESS.2023.3319079.
 - Yukihisa Fujita, Kim Nee Goh, Yoke Yie Chen, and Ken Naono. Estimation of production rate limits using agent-based simulation for oil and gas plants safety. In Advances in Social Simulation, pp. 83– 94. Springer, 2014.
 - 藤田幸久, 櫻井隆雄, 直野健. PC操作支援エージェントによるアプリケーションの操作性改善. 電子情報通信学会論文誌 D, Vol. 95, No. 12, pp. 2059–2071, 2012. 
@@ -8,8 +8,8 @@
 - Yukihisa Fujita, Akihiko Nakase, Yasuko Nakayama, Fujio Toriumi, and Kenichiro Ishii. Knowledge management modeling in organizations. Systems and Computers in Japan, Vol. 38, No. 14, pp. 1–10, 2007. ([6]信学論2007の翻訳版)
 - 藤田幸久, 仲瀬明彦, 中山康子, 鳥海不二夫, 石井健一郎. 組織における知識継承のモデル化. 電子情報通信学会論文誌 D, Vol. 90, No. 1, pp. 52–61, 2007. 
 
-## 講演・口頭発表等
-### 国際会議(査読付き)
+## Conference Proceeding / 講演・口頭発表等
+### International Conference / 国際会議(査読付き)
 - Y. Fujita, T. Hayashi and M. Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users’ Knowledge about Data, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5629-5638, doi: 10.1109/BigData59044.2023.10386387
 - T. Hayashi, Y. Fujita and M. Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data Ecosystems, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5639-5646, doi: 10.1109/BigData59044.2023.10386835
 - K. Manabe, Y. Fujita, M. Kuwahara and T. Hayashi, "Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5657-5664, doi: 10.1109/BigData59044.2023.10386653
@@ -25,7 +25,7 @@
 -	Yukihisa Fujita, Yuichi Washida, Fujio Toriumi, Kazuhiro Ueda, and Kenichiro Ishii. Reversal of influence: Decrease of innovator’s influence under information diversification. In Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems (AAMAS ’10), pp. 1543– 1544, 2010.
 -	Yukihisa Fujita, Fujio Toriumi, and Kenichiro Ishii. Analyzing the influence of social networks on knowledge sharing. The Second Workshop on Emergent Intelligence on Networked Agents (WEIN’07), 2007. 
 
-### 国内学会
+### Domestic Conference / 国内学会
 - 藤田幸久, 桑原昌広, 上田英二. MaaS 評価向け複数モビリティシミュレータ統合プラットフォームMaaS Blenderの検討. 第23回データ指向構成マイニングとシミュレーション研究会 (03/2023)
 - 甘粕隆志, 鳥海不二夫, 藤田幸久. 統計モデリングに基づくサービス選択モデルの提案. 第23回データ指向構成マイニングとシミュレーション研究会 (03/2023)
 - 甘粕隆志, 鳥海不二夫, 藤田幸久. ユーザー意思決定モデルに基づく多次元属性サービス普及戦略の評価. 第22回データ指向構成マイニングとシミュレーション研究会 (11/2022)
@@ -42,7 +42,7 @@
 -	藤田幸久, 鳥海不二夫, 石井健一郎. 社会ネットワークが知識継承に与える影響の分析. Joint Agent Workshop and Symposium (JAWS2006), 2006.
 -	藤田幸久, 仲瀬明彦, 中山康子, 鳥海不二夫, 石井健一郎. 組織における知識継承のモデル化. 情報処理学会研究報告知能と複雑系 (ICS), Vol. 2006, No. 2 (2006-ICS-142), pp. 77–82, 2006.
 
-## 特許等 
+## Patent / 特許等 
 - 桑原昌広, 藤田幸久, 長谷川英男. 都市管理支援装置、都市管理支援方法、及び都市管理支援プログラム. 特開2023-83969, 特開2023-91215, 特開2023-91252.
 -	藤田幸久. 機械学習モデル提供システム、機械学習モデル提供方法. 特開2023-018517. 
 -	藤田幸久, 佐々木尊浩, 工藤卓哉, コーネット可奈, 四柳陽, 原口貴彰. 製品の自動注文のためのシステムおよび方法. 登録番号US10424006, 登録番号JP6603370号.
