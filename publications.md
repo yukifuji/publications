@@ -10,6 +10,9 @@
 
 ## 講演・口頭発表等
 ### 国際会議(査読付き)
+- Y. Fujita, T. Hayashi and M. Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users’ Knowledge about Data, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5629-5638, doi: 10.1109/BigData59044.2023.10386387
+- T. Hayashi, Y. Fujita and M. Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data Ecosystems, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5639-5646, doi: 10.1109/BigData59044.2023.10386835
+- K. Manabe, Y. Fujita, M. Kuwahara and T. Hayashi, "Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5657-5664, doi: 10.1109/BigData59044.2023.10386653
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks, IEEE International Conference on Big Data 2023, 2023
 - Teruaki Hayashi, Yukihisa Fujita, and Masahiro Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data, IEEE International Conference on Big Data 2023, 2023
