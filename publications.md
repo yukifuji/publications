@@ -56,4 +56,11 @@
 -	櫻井隆雄, 藤田幸久, 直野健. ファイル来歴記録システム、ファイル来歴管理装置及びファイル来歴記録方法. 登録番号 JP5689174, US9384177.
 -	花井知広, 樫山俊彦, 鈴木芳生, 藤田幸久. バッチジョブ管理サーバ、バッチジョブ処理システム及びバッチジョブ実行方法. 特開2012-128770.
 -	中川弘充, 中村友洋, 塩野谷友隆, 櫻井隆雄, 藤田幸久. 稼働ログ収集方法および装置. 登録番号 JP5560180. 
+
+## 社外・団体等活動(役職)
+### プログラム委員
+- ICA: International Conference on Agents (2017-2019)
+- JAWS: Joint Agent Workshops & Symposium (2012-2016)
+- PATTERNS: International Conferences on Pervasive Patterns and Applications (2012)
+- IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023)
  
