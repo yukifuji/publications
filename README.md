@@ -5,14 +5,11 @@
 - 藤田幸久, 櫻井隆雄, 直野健. PC操作支援エージェントによるアプリケーションの操作性改善. 電子情報通信学会論文誌 D, Vol. 95, No. 12, pp. 2059–2071, 2012. 
 - 藤田幸久, 鷲田祐一, 鳥海不二夫, 植田一博, 石井健一郎. 情報の多様化を考慮した情報伝播のモデル化とシミュレーション. 情報処理学会論文誌数理モデル化と応用(TOM), Vol. 3, No. 1, pp. 49–61, 2010.
 - 藤田幸久, 鳥海不二夫, 石井健一郎. 動的な人的ネットワーク上での情報共有を考慮したワークシェアリング実施手法の提案とシミュレーションによる評価. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 22, No. 2, pp. 165–177, 2010. 
-- Yukihisa Fujita, Akihiko Nakase, Yasuko Nakayama, Fujio Toriumi, and Kenichiro Ishii. Knowledge management modeling in organizations. Systems and Computers in Japan, Vol. 38, No. 14, pp. 1–10, 2007. ([6]信学論2007の翻訳版)
+- Yukihisa Fujita, Akihiko Nakase, Yasuko Nakayama, Fujio Toriumi, and Kenichiro Ishii. Knowledge management modeling in organizations. Systems and Computers in Japan, Vol. 38, No. 14, pp. 1–10, 2007. (下記信学論2007の翻訳版)
 - 藤田幸久, 仲瀬明彦, 中山康子, 鳥海不二夫, 石井健一郎. 組織における知識継承のモデル化. 電子情報通信学会論文誌 D, Vol. 90, No. 1, pp. 52–61, 2007. 
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
-- Y. Fujita, T. Hayashi and M. Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users’ Knowledge about Data, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5629-5638, doi: 10.1109/BigData59044.2023.10386387
-- T. Hayashi, Y. Fujita and M. Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data Ecosystems, 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5639-5646, doi: 10.1109/BigData59044.2023.10386835
-- K. Manabe, Y. Fujita, M. Kuwahara and T. Hayashi, "Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 5657-5664, doi: 10.1109/BigData59044.2023.10386653
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks, IEEE International Conference on Big Data 2023, 2023
 - Teruaki Hayashi, Yukihisa Fujita, and Masahiro Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data, IEEE International Conference on Big Data 2023, 2023
