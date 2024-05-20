@@ -10,6 +10,7 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Yukihisa Fujita, Masahiro Kuwahara, Large Scale Point of Interests Detection Using Connected Car Trajectory Data, IC2S2 2024, 2024 (poster)
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks, IEEE International Conference on Big Data 2023, 2023
 - Teruaki Hayashi, Yukihisa Fujita, and Masahiro Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data, IEEE International Conference on Big Data 2023, 2023
@@ -23,6 +24,7 @@
 -	Yukihisa Fujita, Fujio Toriumi, and Kenichiro Ishii. Analyzing the influence of social networks on knowledge sharing. The Second Workshop on Emergent Intelligence on Networked Agents (WEIN’07), 2007. 
 
 ### Domestic Conference / 国内学会
+- 真鍋公介, 藤田幸久, 桑原昌広, 早矢仕晃章, データ流通市場におけるデータ探索のための深層データ表現学習モデル, 人工知能学会全国大会2024, 2024
 - 早矢仕晃章, 藤田幸久, 桑原昌広, 異分野メタデータからの文脈と変数に基づくデータ形態素抽出の試み. 第24回SIG-BI研究会 (03/2024)
 - 佐藤遼希, 鳥海不二夫,　藤田幸久, モビリティサービス普及におけるユーザーサービスの共進化. 第24回SIG-BI研究会 (03/2024)
 - 藤田幸久, 桑原昌広, 上田英二. MaaS 評価向け複数モビリティシミュレータ統合プラットフォームMaaS Blenderの検討. 第23回データ指向構成マイニングとシミュレーション研究会 (03/2023)
