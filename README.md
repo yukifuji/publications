@@ -63,5 +63,5 @@
 - ICA: International Conference on Agents (2017-2019)
 - JAWS: Joint Agent Workshops & Symposium (2012-2016)
 - PATTERNS: International Conferences on Pervasive Patterns and Applications (2012)
-- IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023)
+- IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023-present)
  
