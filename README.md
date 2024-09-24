@@ -10,7 +10,8 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
-- Yukihisa Fujita, Masahiro Kuwahara, Large Scale Point of Interests Detection Using Connected Car Trajectory Data, IC2S2 2024, 2024 (poster)
+- Haruki Sato, Fujio Toriumi, and Yukihisa Fujita, Multi-Agent Reinforcement Learning for Market Competition in Mobility Services, The 19th annual Social Simulation Conference (SSC 2024), 2024
+- Yukihisa Fujita, and Masahiro Kuwahara, Large Scale Point of Interests Detection Using Connected Car Trajectory Data, 10th International Conference on Computational Social Science (IC2S2 2024), 2024 (poster)
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Variable-based Learning Considering Topic Specificity in Heterogeneous Data Clustering Tasks, IEEE International Conference on Big Data 2023, 2023
 - Teruaki Hayashi, Yukihisa Fujita, and Masahiro Kuwahara, Exploring the Fundamental Units of Semantic Representation of Data Using Heterogeneous Variable Network in Data, IEEE International Conference on Big Data 2023, 2023
