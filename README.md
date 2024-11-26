@@ -25,6 +25,7 @@
 -	Yukihisa Fujita, Fujio Toriumi, and Kenichiro Ishii. Analyzing the influence of social networks on knowledge sharing. The Second Workshop on Emergent Intelligence on Networked Agents (WEIN’07), 2007. 
 
 ### Domestic Conference / 国内学会
+- 小池和喜隆, 西口真央, 工藤航, 藤田幸久, 桑原昌広, モビリティサービスの評価に資する都市分類方式の検討, 経営情報学会2024年全国研究発表大会, 2024
 - 真鍋公介, 藤田幸久, 桑原昌広, 早矢仕晃章, データ流通市場におけるデータ探索のための深層データ表現学習モデル, 人工知能学会全国大会2024, 2024
 - 早矢仕晃章, 藤田幸久, 桑原昌広, 異分野メタデータからの文脈と変数に基づくデータ形態素抽出の試み. 第24回SIG-BI研究会 (03/2024)
 - 佐藤遼希, 鳥海不二夫,　藤田幸久, モビリティサービス普及におけるユーザーサービスの共進化. 第24回SIG-BI研究会 (03/2024)
