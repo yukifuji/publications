@@ -1,7 +1,7 @@
 # Publications
 ## Journal Paper / 査読付き論文
 - Yukihisa Fujita, Masahiro Kuwahara, and Eiji Ueda. MaaS Blender: Integration of Mobility Simulators for Mobility as a Service Evaluation. in IEEE Access, vol. 11, pp. 105105-105114, 2023, doi: 10.1109/ACCESS.2023.3319079.
-- Yukihisa Fujita, Kim Nee Goh, Yoke Yie Chen, and Ken Naono. Estimation of production rate limits using agent-based simulation for oil and gas plants safety. In Advances in Social Simulation, pp. 83– 94. Springer, 2014.
+- Yukihisa Fujita, Kim Nee Goh, Yoke Yie Chen, and Ken Naono. Estimation of production rate limits using agent-based simulation for oil and gas plants safety. In Advances in Social Simulation, pp. 83–94. Springer, 2014.
 - 藤田幸久, 櫻井隆雄, 直野健. PC操作支援エージェントによるアプリケーションの操作性改善. 電子情報通信学会論文誌 D, Vol. 95, No. 12, pp. 2059–2071, 2012. 
 - 藤田幸久, 鷲田祐一, 鳥海不二夫, 植田一博, 石井健一郎. 情報の多様化を考慮した情報伝播のモデル化とシミュレーション. 情報処理学会論文誌数理モデル化と応用(TOM), Vol. 3, No. 1, pp. 49–61, 2010.
 - 藤田幸久, 鳥海不二夫, 石井健一郎. 動的な人的ネットワーク上での情報共有を考慮したワークシェアリング実施手法の提案とシミュレーションによる評価. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 22, No. 2, pp. 165–177, 2010. 
@@ -10,6 +10,8 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Inferring Relationships between Tabular Data and Topics using LLM for a Dataset Search Task, IEEE International Conference on Big Data 2024, pp.6536-6545, 2024
+- Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Metadata-less Dataset Recommendation Leveraging Dataset Embeddings by Pre-trained Tabular Language Models, IEEE International Conference on Big Data 2024, pp.6576-6585, 2024
 - Haruki Sato, Fujio Toriumi, and Yukihisa Fujita, Multi-Agent Reinforcement Learning for Market Competition in Mobility Services, The 19th annual Social Simulation Conference (SSC 2024), 2024
 - Yukihisa Fujita, and Masahiro Kuwahara, Large Scale Point of Interests Detection Using Connected Car Trajectory Data, 10th International Conference on Computational Social Science (IC2S2 2024), 2024 (poster)
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Topic-Based Search: Dataset Search without Metadata and Users' Knowledge about Data, IEEE International Conference on Big Data 2023, 2023
