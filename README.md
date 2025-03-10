@@ -70,4 +70,6 @@
 - JAWS: Joint Agent Workshops & Symposium (2012-2016)
 - PATTERNS: International Conferences on Pervasive Patterns and Applications (2012)
 - IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023-present)
- 
+
+### その他
+- 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
