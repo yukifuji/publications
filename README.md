@@ -53,7 +53,7 @@
 ## Patent / 特許等 
 - 藤田幸久. シミュレーション装置およびシミュレーション方法. 特開2024-111950. 
 - 桑原昌広, 藤田幸久, 長谷川英男. 都市管理支援装置、都市管理支援方法、及び都市管理支援プログラム. 登録7582169, 登録7509125, 登録7509126.
--	藤田幸久. 機械学習モデル提供システム、機械学習モデル提供方法. 特開2023-018517. 
+-	藤田幸久. 機械学習モデル提供システム、機械学習モデル提供方法. 登録7639598. 
 -	藤田幸久, 佐々木尊浩, 工藤卓哉, コーネット可奈, 四柳陽, 原口貴彰. 製品の自動注文のためのシステムおよび方法. 登録番号US10424006, 登録番号JP6603370号.
 -	大家健司, 藤田幸久. 輸送計画支援装置及び輸送計画支援システム. WO2017/037826.
 -	藤田幸久, 大家健司. ロジスティクス計画生成方法およびシステム. WO2016/143037. 
@@ -71,7 +71,7 @@
 - ICA: International Conference on Agents (2017-2019)
 - JAWS: Joint Agent Workshops & Symposium (2012-2016)
 - PATTERNS: International Conferences on Pervasive Patterns and Applications (2012)
-- IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023-present)
+- IEEE Big Data Special Session Understanding New Markets by Data Science, Social Science, and Economics (2023-2024)
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
