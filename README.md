@@ -10,6 +10,7 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Masahiro Kuwahara, Toshiyuki Nakamura, Yukihisa Fujita, Prioritizing residential areas for traffic measure by utilizing passive data, Transportation Research Symposium 2025, 2025
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Inferring Relationships between Tabular Data and Topics using LLM for a Dataset Search Task, IEEE International Conference on Big Data 2024, pp.6536-6545, 2024
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Metadata-less Dataset Recommendation Leveraging Dataset Embeddings by Pre-trained Tabular Language Models, IEEE International Conference on Big Data 2024, pp.6576-6585, 2024
 - Haruki Sato, Fujio Toriumi, and Yukihisa Fujita, Multi-Agent Reinforcement Learning for Market Competition in Mobility Services, The 19th annual Social Simulation Conference (SSC 2024), 2024
@@ -27,6 +28,7 @@
 -	Yukihisa Fujita, Fujio Toriumi, and Kenichiro Ishii. Analyzing the influence of social networks on knowledge sharing. The Second Workshop on Emergent Intelligence on Networked Agents (WEIN’07), 2007. 
 
 ### Domestic Conference / 国内学会
+- 佐藤遼希, 藤田幸久, 鳥海不二夫, 車両軌跡の大規模データを用いた人の移動パターンのネットワーク分析. 2025年度人工知能学会全国大会 (05/2025)
 - 佐藤遼希, 藤田幸久, 鳥海不二夫, ユーザーと移動先から構成される二部グラフネットワーク分析を用いた自動車移動の地域・POIの依存性分析. 第26回SIG-BI研究会 (03/2025)
 - 小池和喜隆, 西口真央, 工藤航, 藤田幸久, 桑原昌広, 移動利便性の評価指標の検討. 第26回SIG-BI研究会 (03/2025)
 - 松本一晟，松井智一，藤田幸久，諏訪博彦，安本慶一, IoTデータ活用を促進するためのデータセット自動プロファイリングの検討, 社会システムと情報技術研究ウィーク2025, 2025
