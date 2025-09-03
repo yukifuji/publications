@@ -10,6 +10,7 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Masahiro Kuwahara, Yukihisa Fujita, Multi-Service Usage Possibility Rate (MP): An indicator for multiple mobility service convenience, International Symposium on Transportation Data & Modelling (ISTDM) 2025, 2025
 - Masahiro Kuwahara, Toshiyuki Nakamura, Yukihisa Fujita, Prioritizing residential areas for traffic measure by utilizing passive data, Transportation Research Symposium 2025, 2025
 - Yukihisa Fujita, Teruaki Hayashi, and Masahiro Kuwahara, Inferring Relationships between Tabular Data and Topics using LLM for a Dataset Search Task, IEEE International Conference on Big Data 2024, pp.6536-6545, 2024
 - Kosuke Manabe, Yukihisa Fujita, Masahiro Kuwahara, and Teruaki Hayashi, Metadata-less Dataset Recommendation Leveraging Dataset Embeddings by Pre-trained Tabular Language Models, IEEE International Conference on Big Data 2024, pp.6576-6585, 2024
@@ -69,6 +70,8 @@
 -	中川弘充, 中村友洋, 塩野谷友隆, 櫻井隆雄, 藤田幸久. 稼働ログ収集方法および装置. 登録番号 JP5560180. 
 
 ## 社外・団体等活動(役職)
+### 研究会
+- 人工知能学会 データ協創研究会 主幹事 （2025-）
 ### プログラム委員
 - ICA: International Conference on Agents (2017-2019)
 - JAWS: Joint Agent Workshops & Symposium (2012-2016)
@@ -77,3 +80,4 @@
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
+
