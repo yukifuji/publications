@@ -11,6 +11,7 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Issei Matsumoto, Tomokazu Matsui, Yukihisa Fujita, Hirohiko Suwa, Keiichi Yasumoto, Data Profile Generation Framework for Data Utilization. PKAW 2025, 2025.
 - Haruki Sato, Yukihis Fujita, Fujio Toriumi, Analysis of Segregation in Human Movements through POI Co-occurrence Networks based on Connected Car Data, The 4th International Workshop on Spatial Big
 Data and AI for Industrial Applications (GeoIndustry), 2025
 - Masahiro Kuwahara, Yukihisa Fujita, Multi-Service Usage Possibility Rate (MP): An indicator for multiple mobility service convenience, International Symposium on Transportation Data & Modelling (ISTDM) 2025, 2025
@@ -84,6 +85,7 @@ Data and AI for Industrial Applications (GeoIndustry), 2025
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
+
 
 
 
