@@ -33,6 +33,8 @@ Data and AI for Industrial Applications (GeoIndustry), 2025
 -	Yukihisa Fujita, Fujio Toriumi, and Kenichiro Ishii. Analyzing the influence of social networks on knowledge sharing. The Second Workshop on Emergent Intelligence on Networked Agents (WEIN’07), 2007. 
 
 ### Domestic Conference / 国内学会
+- 指原淳, 藤田幸久, 中村航大, 桑原昌広, 早矢仕晃章, データ市場における目的志向と市場トレンドを考慮したLLMマルチエージェントシステムの設計と評価, 第1回計算創律科学研究会研究会 (12/2025)
+- 中村航大, 藤田幸久, ゼロショット埋め込みを用いた関連テーブル探索, 第1回データ協創研究会 (12/2025)
 - 小池和喜隆, 西口真央, 工藤航, 藤田幸久, 桑原昌広, 合成⼈⼝データを活⽤した到達コストに基づく移動利便性指標, 経営情報学会2025年全国研究発表大会, 2025
 - 佐藤遼希, 藤田幸久, 鳥海不二夫, 車両軌跡の大規模データを用いた人の移動パターンのネットワーク分析. 2025年度人工知能学会全国大会 (05/2025)
 - 佐藤遼希, 藤田幸久, 鳥海不二夫, ユーザーと移動先から構成される二部グラフネットワーク分析を用いた自動車移動の地域・POIの依存性分析. 第26回SIG-BI研究会 (03/2025)
@@ -85,6 +87,7 @@ Data and AI for Industrial Applications (GeoIndustry), 2025
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
+
 
 
 
