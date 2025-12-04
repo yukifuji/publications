@@ -1,8 +1,9 @@
 # Publications
-## Journal Paper / 査読付き論文
-- Haruki Sato, Fujio Toriumi, Yukihisa Fujita, Multi-agent Reinforcement Learning for Market Competition in Mobility Services. in Advances in Social Simulation, pp. 451-463, 2025.
+## Journal Paper / 査読付き論文・雑誌
+- Issei Matsumoto, Tomokazu Matsui, Yukihisa Fujita, Hirohiko Suwa, Keiichi Yasumoto. Data Profile Generation Framework for Data Utilization, Communications in Computer and Information Science, vol 2768. Springer, 2025.
+- Haruki Sato, Fujio Toriumi, Yukihisa Fujita, Multi-agent Reinforcement Learning for Market Competition in Mobility Services. Advances in Social Simulation, pp. 451-463, 2025.
 - Yukihisa Fujita, Masahiro Kuwahara, and Eiji Ueda. MaaS Blender: Integration of Mobility Simulators for Mobility as a Service Evaluation. in IEEE Access, vol. 11, pp. 105105-105114, 2023, doi: 10.1109/ACCESS.2023.3319079.
-- Yukihisa Fujita, Kim Nee Goh, Yoke Yie Chen, and Ken Naono. Estimation of production rate limits using agent-based simulation for oil and gas plants safety. In Advances in Social Simulation, pp. 83–94. Springer, 2014.
+- Yukihisa Fujita, Kim Nee Goh, Yoke Yie Chen, and Ken Naono. Estimation of production rate limits using agent-based simulation for oil and gas plants safety. Advances in Social Simulation, pp. 83–94. Springer, 2014.
 - 藤田幸久, 櫻井隆雄, 直野健. PC操作支援エージェントによるアプリケーションの操作性改善. 電子情報通信学会論文誌 D, Vol. 95, No. 12, pp. 2059–2071, 2012. 
 - 藤田幸久, 鷲田祐一, 鳥海不二夫, 植田一博, 石井健一郎. 情報の多様化を考慮した情報伝播のモデル化とシミュレーション. 情報処理学会論文誌数理モデル化と応用(TOM), Vol. 3, No. 1, pp. 49–61, 2010.
 - 藤田幸久, 鳥海不二夫, 石井健一郎. 動的な人的ネットワーク上での情報共有を考慮したワークシェアリング実施手法の提案とシミュレーションによる評価. Journal of Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 22, No. 2, pp. 165–177, 2010. 
@@ -87,6 +88,7 @@ Data and AI for Industrial Applications (GeoIndustry), 2025
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
+
 
 
 
