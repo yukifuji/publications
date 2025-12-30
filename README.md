@@ -1,5 +1,6 @@
 # Publications
 ## Journal Paper / 査読付き論文・雑誌
+- Masahiro Kuwahara, Toshiyuki Nakamura, Yukihisa Fujita, Prioritizing Residential Area for Traffic Policy by Utilizing Passive Data, Transportation Research Procedia, Vol. 92, pp. 60-66, 2025.
 - Issei Matsumoto, Tomokazu Matsui, Yukihisa Fujita, Hirohiko Suwa, Keiichi Yasumoto. Data Profile Generation Framework for Data Utilization, Communications in Computer and Information Science, vol 2768. Springer, 2025.
 - Haruki Sato, Fujio Toriumi, Yukihisa Fujita, Multi-agent Reinforcement Learning for Market Competition in Mobility Services. Advances in Social Simulation, pp. 451-463, 2025.
 - Yukihisa Fujita, Masahiro Kuwahara, and Eiji Ueda. MaaS Blender: Integration of Mobility Simulators for Mobility as a Service Evaluation. in IEEE Access, vol. 11, pp. 105105-105114, 2023, doi: 10.1109/ACCESS.2023.3319079.
@@ -89,6 +90,7 @@ Data and AI for Industrial Applications (GeoIndustry), 2025
 
 ### その他
 - 奈良先端科学技術大学院大学　客員准教授 （超スマート社会実装共同研究室）
+
 
 
 
