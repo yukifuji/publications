@@ -12,6 +12,7 @@
 
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference / 国際会議(査読付き)
+- Mahiro Tajima, Yukihisa Fujita, Kota Nakamura, Masahiro Kuwahara, Teruaki Hayashi, Who loses supply chain visibility?, 35th Annual IPSERA conference, 2026.
 - Jun Sashihara, Yukihisa Fujita, Kota Nakamura, Masahiro Kuwahara, Teruaki Hayashi, LLM-based Multi-Agent System for Simulating Strategic and Goal-Oriented Data Marketplaces, IEEE International Conference on Big Data, 2025.
 - Issei Matsumoto, Tomokazu Matsui, Yukihisa Fujita, Hirohiko Suwa, Keiichi Yasumoto, Data Profile Generation Framework for Data Utilization. PKAW 2025, 2025.
 - Haruki Sato, Yukihis Fujita, Fujio Toriumi, Analysis of Segregation in Human Movements through POI Co-occurrence Networks based on Connected Car Data, The 4th International Workshop on Spatial Big
