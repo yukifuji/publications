@@ -1,5 +1,8 @@
 # Publications
 ## Journal Paper / 査読付き論文・雑誌
+1. Masahiro Kuwahara, **Yukihisa Fujita**, Toshiyuki Nakamura.
+   "Multi-mobility Service Availability Rate (MA): An Indicator for Multiple Service Convenience,"
+   *Data Science for Transportation*, vol. 8, No. 16 (2026). DOI: [10.1007/s42421-026-00156-6](https://doi.org/10.1007/s42421-026-00156-6)
 
 1. Issei Matsumoto, Tomokazu Matsui, **Yukihisa Fujita**, Hirohiko Suwa, Keiichi Yasumoto.
    "Data Profile Generation Framework for Data Utilization,"
