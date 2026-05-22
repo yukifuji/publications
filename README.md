@@ -35,11 +35,11 @@
 1. **藤田幸久**, 鳥海不二夫, 石井健一郎.
    "動的な人的ネットワーク上での情報共有を考慮したワークシェアリング実施手法の提案とシミュレーションによる評価,"
    *知能と情報*, Vol. 22, No. 2, pp. 165–177, 2010.
+   DOI: [10.3156/jsoft.22.165](https://doi.org/10.3156/jsoft.22.165)
    
 1. **藤田幸久**, 鷲田祐一, 鳥海不二夫, 植田一博, 石井健一郎.
    "情報の多様化を考慮した情報伝播のモデル化とシミュレーション,"
    *情報処理学会論文誌 数理モデル化と応用 (TOM)*, Vol. 3, No. 1, pp. 49–61, 2010.
-   DOI: [10.3156/jsoft.22.165](https://doi.org/10.3156/jsoft.22.165)
 
 1. **Yukihisa Fujita**, Akihiko Nakase, Yasuko Nakayama, Fujio Toriumi, Kenichiro Ishii.
    "Knowledge Management Modeling in Organizations,"
