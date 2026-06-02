@@ -307,7 +307,8 @@
 ## 社外・団体等活動(役職)
 ### 研究会
 - 人工知能学会 データ協創研究会 主幹事 （2025-）
-### プログラム委員
+### 委員等
+- 人工知能学会編集委員（2026/06-）
 - ICA: International Conference on Agents (2017-2019)
 - JAWS: Joint Agent Workshops & Symposium (2012-2016)
 - PATTERNS: International Conferences on Pervasive Patterns and Applications (2012)
