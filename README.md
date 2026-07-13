@@ -53,7 +53,7 @@
 
 
 ## Conference Proceeding / 講演・口頭発表等
-### International Conference (Peer-reviewed) / 国際会議(査読付き)
+### International Conference  / 国際会議
 
 1. Mahiro Tajima, **Yukihisa Fujita**, Kota Nakamura, Masahiro Kuwahara, Teruaki Hayashi.
    "Who Loses Supply Chain Visibility?,"
