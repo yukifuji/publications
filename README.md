@@ -55,6 +55,10 @@
 ## Conference Proceeding / 講演・口頭発表等
 ### International Conference  / 国際会議
 
+1. Jun Sashihara, **Yukihisa Fujita**, Kota Nakamura, Masahiro Kuwahara and Teruaki Hayashi.
+    "Do Data Markets Grow or Decline? Institutional Dynamics Explored through LLM-Based Multi-Agent Simulation,"
+    *12th International Conference on Computational Social Science (IC2S2 2026)*, 2026.
+    
 1. Mahiro Tajima, **Yukihisa Fujita**, Kota Nakamura, Masahiro Kuwahara, Teruaki Hayashi.
    "Who Loses Supply Chain Visibility?,"
    *35th Annual IPSERA Conference*, 2026.
@@ -150,6 +154,13 @@
 ### Domestic Conference / 国内学会
 
 ### 2026
+
+1. 程昊陽, 中村航大, **藤田幸久**, 早矢仕晃章. 内容類似性とタスク転移可能性を考慮したデータセット間類似度学習手法の提案
+   *第3回データ協創研究会*, 2026年8月.
+
+1. 田嶋真寛, **藤田幸久**, 中村航太, 早矢仕晃章. API可用性の変動がデータ利用に与える影響：英国Open Bankingにおける事例研究, 
+   *第3回データ協創研究会*, 2026年8月.
+
 
 1. 増山優花, 西口真央, 小池和喜隆, 岡村光理, **藤田幸久**.
    「公共交通オープンデータを活用したバス運行頻度推定」
