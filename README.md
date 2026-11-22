@@ -1,5 +1,10 @@
 # Publications
 ## Journal Paper / 査読付き論文・雑誌
+1. **Yukihisa Fujita**, Takashi Amakasu, Fujio Toriumi.
+   "Impact of service value fluctuation on market share: a simulation study,"
+   *Journal of Computational Social Science*, (In Press).
+   DOI: [10.1007/s42001-026-00505-z](https://doi.org/10.1007/s42001-026-00505-z)
+   
 1. Masahiro Kuwahara, **Yukihisa Fujita**, Toshiyuki Nakamura.
    "Multi-mobility Service Availability Rate (MA): An Indicator for Multiple Service Convenience,"
    *Data Science for Transportation*, vol. 8, No. 16 (2026).
@@ -154,13 +159,19 @@
 ### Domestic Conference / 国内学会
 
 ### 2026
+1. 増山優花, 西口真央, 小池和喜隆, 岡村光理, **藤田幸久**.
+   「公共交通網再編における段階的な移行計画の支援ツールの設計」
+   *社会システムと情報技術研究ウィーク (WSSIT2026)*, 2026年3月.
 
-1. 程昊陽, 中村航大, **藤田幸久**, 早矢仕晃章. 内容類似性とタスク転移可能性を考慮したデータセット間類似度学習手法の提案
+2. 小池和喜隆, 西口真央, 増山優花, 岡村光理, 今井慎司, 見城紳, 榎本寿枝, **藤田幸久**.
+   「新モビリティサービスを考慮した移動利便性指標の基礎的検討」
+   *経営情報学会2026年全国研究発表大会*, 2026.
+
+1. 程昊陽, 中村航大, **藤田幸久**, 早矢仕晃章. 「内容類似性とタスク転移可能性を考慮したデータセット間類似度学習手法の提案」
    *第3回データ協創研究会*, 2026年8月.
 
-1. 田嶋真寛, **藤田幸久**, 中村航太, 早矢仕晃章. API可用性の変動がデータ利用に与える影響：英国Open Bankingにおける事例研究, 
+1. 田嶋真寛, **藤田幸久**, 中村航太, 早矢仕晃章. 「API可用性の変動がデータ利用に与える影響：英国Open Bankingにおける事例研究」
    *第3回データ協創研究会*, 2026年8月.
-
 
 1. 増山優花, 西口真央, 小池和喜隆, 岡村光理, **藤田幸久**.
    「公共交通オープンデータを活用したバス運行頻度推定」
