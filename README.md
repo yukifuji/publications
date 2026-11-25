@@ -2,7 +2,7 @@
 ## Journal Paper / 査読付き論文・雑誌
 1. **Yukihisa Fujita**, Takashi Amakasu, Fujio Toriumi.
    "Impact of service value fluctuation on market share: a simulation study,"
-   *Journal of Computational Social Science*, (In Press).
+   *Journal of Computational Social Science*, Vol. 10, No. 3 (2027). 
    DOI: [10.1007/s42001-026-00505-z](https://doi.org/10.1007/s42001-026-00505-z)
    
 1. Masahiro Kuwahara, **Yukihisa Fujita**, Toshiyuki Nakamura.
